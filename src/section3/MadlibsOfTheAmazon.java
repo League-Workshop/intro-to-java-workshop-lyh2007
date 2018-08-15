@@ -7,17 +7,17 @@ public class MadlibsOfTheAmazon {
 	public static void main(String[] args) {
 		// Put this sentence in a pop up:
 		// If you find yourself having to cross a piranha-infested river, here's how to do it...
-		
+		JOptionPane.showMessageDialog(null,"If you find yourself having to cross a piranha-infested river, here's how to do it..." );
 		// Get the user to enter an adjective
-
+		JOptionPane.
 		// Get the user to enter a type of liquid
-
+		JOptionPane.
 		// Get the user to enter a body part
-
+		JOptionPane.
 		// Get the user to enter a verb
-
+		JOptionPane.
 		// Get the user to enter a place
-
+		JOptionPane.
 		// Fit the user's words into this sentence, and save it in a String:
 		// Piranhas are more [adjective] during the day, so cross the river at
 		// night. Piranhas are attracted to fresh [type of liquid] and will most
