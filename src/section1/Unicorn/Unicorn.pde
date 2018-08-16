@@ -7,5 +7,5 @@ void setup() {
 } 
 
 void draw() {
-  Background("rainbow");
+  background("rainbow");
 }

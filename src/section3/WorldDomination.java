@@ -9,7 +9,7 @@ public class WorldDomination {
 		String code = JOptionPane.showInputDialog("Do you know how to code?");
 		// 2. If they say "yes", tell them they will rule the world.
 		if (code.equals("yes")) {
-		// 3. Otherwise, wish them good luck washing dishes.
+		// 3. Otherwise, wish them good luck with the dishes for ten years.
 		
 	}
 }
